@@ -1,5 +1,9 @@
-### Hi there 👋
+### A bit about me
+Hi, I'm **emcifuntik** aka **tuxick** aka **Eugeue Pogrebnyak**. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emcifuntik&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Emcifuntik's GitHub stats](https://github-readme-stats.vercel.app/api?username=emcifuntik&count_private=true&show_icons=true&theme=gradient&include_all_commits=true&theme=cobalt&bg_color=00000000&border_color=00000000&title_color=e582d8FF&text_color=67eea5ff)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **emcifuntik/emcifuntik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
