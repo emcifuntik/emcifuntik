@@ -1,5 +1,5 @@
 ### A bit about me
-Hi, I'm **emcifuntik** aka **tuxick** aka **Eugene Pogrebnyak**. 
+Hi, I'm **emcifuntik** aka **tuxick** aka **Yauhen Pahrabniak**. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emcifuntik&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)](https://github.com/emcifuntik)
 
